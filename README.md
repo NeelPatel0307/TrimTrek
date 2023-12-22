@@ -9,11 +9,7 @@ The Barber Booking and Scheduling App is a comprehensive platform that enables u
 
 ### Authors
 
-#### - Gauravsinh Bharatsinh Solanki (B00932065)
 #### - Neel Patel (B00923803)
-#### - Rakshit Ranpariya (B00946421)
-#### - Jay Rana (B00932024)
-#### - Sakib Sadman (B00934956)
 
 
 
